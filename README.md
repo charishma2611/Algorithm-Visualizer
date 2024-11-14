@@ -19,7 +19,6 @@ The visualizer animates the sorting process and is ideal for learning and unders
 Installation
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/charishma2611/algorithm-visualizer.git
 cd algorithm-visualizer
